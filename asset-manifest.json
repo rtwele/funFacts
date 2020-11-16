@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/funFacts/static/css/main.8a778c0f.chunk.css",
+    "main.js": "/funFacts/static/js/main.df19f6e3.chunk.js",
+    "main.js.map": "/funFacts/static/js/main.df19f6e3.chunk.js.map",
+    "runtime-main.js": "/funFacts/static/js/runtime-main.7dfaf7e2.js",
+    "runtime-main.js.map": "/funFacts/static/js/runtime-main.7dfaf7e2.js.map",
+    "static/js/2.3f9745d2.chunk.js": "/funFacts/static/js/2.3f9745d2.chunk.js",
+    "static/js/2.3f9745d2.chunk.js.map": "/funFacts/static/js/2.3f9745d2.chunk.js.map",
+    "static/js/3.75ea7ba6.chunk.js": "/funFacts/static/js/3.75ea7ba6.chunk.js",
+    "static/js/3.75ea7ba6.chunk.js.map": "/funFacts/static/js/3.75ea7ba6.chunk.js.map",
+    "index.html": "/funFacts/index.html",
+    "static/css/main.8a778c0f.chunk.css.map": "/funFacts/static/css/main.8a778c0f.chunk.css.map",
+    "static/js/2.3f9745d2.chunk.js.LICENSE.txt": "/funFacts/static/js/2.3f9745d2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/funFacts/static/media/skateboard4.fb0f7c19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dfaf7e2.js",
+    "static/js/2.3f9745d2.chunk.js",
+    "static/css/main.8a778c0f.chunk.css",
+    "static/js/main.df19f6e3.chunk.js"
+  ]
+}
